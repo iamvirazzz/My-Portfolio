@@ -33,7 +33,7 @@ body {
 .logo {
     font-size: 1.8rem;
     font-weight: 700;
-    color: var(--accent);
+    color: red;
     text-decoration: none;
     /* FIXED: "padding: left 2.5rem" galat tha → padding-left sahi hai */
     padding-left: 0;
